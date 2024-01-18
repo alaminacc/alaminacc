@@ -3,7 +3,7 @@
 
 Professional Journey:
 
-I currently serve as the Deputy Manager of Automation Solutions and Developer/RPA at Epyllion Group, where I've been contributing since March 2012. My role involves crafting automation solutions, harnessing the power of Excel VBA and Python to streamline data entry into databases and systems. I specialize in advanced Excel functionalities, corporate finance, database design, and the development of automation solutions.
+I currently serve as the Deputy Manager of Automation Solutions Developer (RPA) at Epyllion Group, where I've been contributing since March 2012. My role involves crafting automation solutions, harnessing the power of Excel VBA and Python to streamline data entry into databases and systems. I specialize in advanced Excel functionalities, corporate finance, database design, and the development of automation solutions.
 
 Skills Snapshot:
 
