@@ -1,4 +1,5 @@
 ### Hey there, my awesome Friends! <img src="assets/hello.gif" width="28px" alt="hi">
+<img src="assets/art.PNG" alt="About My Self" width="1200" height="400">
 <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
 **💻 Excel VBA & Python Developer:**
 With a strong background in Excel VBA and Python, I excel at creating efficient automation solutions for data entry into databases/systems.
