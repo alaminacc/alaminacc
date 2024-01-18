@@ -1,4 +1,4 @@
-### Hey there, my awesome Friends! 👋
+### Hey there, my awesome Friends! <img src="assets/hello.gif" width="28px" alt="hi">
   I'm S. M. Al-Amin Molla, a seasoned professional in the world of automation and development!
 
 Professional Journey:
