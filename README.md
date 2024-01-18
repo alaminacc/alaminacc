@@ -1,4 +1,30 @@
 ### Hey there, my awesome Friends! 👋
+  I'm S. M. Al-Amin Molla, a seasoned professional in the world of automation and development!
+
+Professional Journey:
+
+I currently serve as the Deputy Manager of Automation Solutions and Developer/RPA at Epyllion Group, where I've been contributing since March 2012. My role involves crafting automation solutions, harnessing the power of Excel VBA and Python to streamline data entry into databases and systems. I specialize in advanced Excel functionalities, corporate finance, database design, and the development of automation solutions.
+
+Skills Snapshot:
+
+💻 Excel VBA & Python Developer: With a strong background in Excel VBA and Python, I excel at creating efficient automation solutions for data entry into databases/systems.
+
+🔄 Automation Maestro: Proficient in automation, I bring a wealth of experience in developing solutions for data organization from diverse, scattered data sources.
+
+📊 Data Analysis Expert: Well-versed in data analysis, I leverage my skills to derive meaningful insights and support informed decision-making.
+
+🌐 MERN Stack Developer (Beginner): Venturing into the realm of MERN Stack development, I'm exploring the possibilities of web app development.
+
+🚀 RPA Developer: As an RPA Developer, I'm passionate about building robotic process automation solutions to enhance efficiency and reduce manual efforts.
+
+What Drives Me:
+
+I am passionate about driving innovation through technology, whether it's automating tedious tasks, designing robust databases, or exploring the vast possibilities of web app development. My goal is to contribute valuable solutions that optimize workflows, enhance data accuracy, and ultimately contribute to the success of any project.
+
+Feel free to dive into my repositories, and let's connect to discuss exciting opportunities, collaborations, or simply share insights into the ever-evolving world of technology! 🚀
+
+
+
 <a href="#"><img src="assets/vbaExcelImage_resized.png" alt="Excel VBA Logo" width="120" height="30"></a>
 [![React Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) <a href="#"><img src="assets/excelLogo.png" alt="Excel VBA Logo" width="40" height="30"></a>
 <!--
