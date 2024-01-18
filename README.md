@@ -3,7 +3,7 @@
 
 Professional Journey:
 
-I currently serve as the Deputy Manager of Automation Solutions Developer (RPA) at Epyllion Group, where I've been contributing since March 2012. My role involves crafting automation solutions, harnessing the power of Excel VBA and Python to streamline data entry into databases and systems. I specialize in advanced Excel functionalities, corporate finance, database design, and the development of automation solutions.
+I currently serve as the Deputy Manager of Automation Solutions Developer (RPA) at Epyllion Group, where I've been contributing since March 2012. My role involves crafting automation solutions, harnessing the power of Excel VBA and Python to streamline data entry into databases and systems. I specialize in advanced Excel functionalities, database design, and the development of automation solutions besides corporate finance and accounts.
 
 Skills Snapshot:
 
@@ -13,9 +13,10 @@ Skills Snapshot:
 
 📊 Data Analysis Expert: Well-versed in data analysis, I leverage my skills to derive meaningful insights and support informed decision-making.
 
+🚀 RPA Developer: As an RPA Developer, I'm passionate about building robotic process automation solutions to enhance efficiency and reduce manual efforts.
+
 🌐 MERN Stack Developer (Beginner): Venturing into the realm of MERN Stack development, I'm exploring the possibilities of web app development.
 
-🚀 RPA Developer: As an RPA Developer, I'm passionate about building robotic process automation solutions to enhance efficiency and reduce manual efforts.
 
 What Drives Me:
 
