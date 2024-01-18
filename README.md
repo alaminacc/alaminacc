@@ -15,7 +15,7 @@ Skills Snapshot:
 
 🚀 RPA Developer: As an RPA Developer, I'm passionate about building robotic process automation solutions to enhance efficiency and reduce manual efforts.
 
-🌐 MERN Stack Developer (Beginner): Venturing into the realm of MERN Stack development, I'm exploring the possibilities of web app development.
+🌐 Full Stack Web Developer (Beginner): Venturing into the realm of MERN Stack development, I'm exploring the possibilities of web app development.
 
 
 What Drives Me:
