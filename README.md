@@ -1,6 +1,6 @@
 ### Hey there, my awesome Friends! 👋
 <a href="#"><img src="assets/vbaExcelImage_resized.png" alt="Excel VBA Logo" width="120" height="30"></a>
-[![React Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) <a href="#"><img src="assets/excelLogo.png" alt="Excel VBA Logo" width="40" height="30"></a>
 <!--
 **alaminacc/alaminacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
