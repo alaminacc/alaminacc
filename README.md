@@ -26,8 +26,8 @@ Feel free to dive into my repositories, and let's connect to discuss exciting op
 
 
 
-<a href="#"><img src="assets/vbaExcelImage_resized.png" alt="Excel VBA Logo" width="120" height="40"></a>
-<a href="#"><img src="assets/Python Logo.png" alt="Python Logo" width="120" height="40"></a>
+<a href="#"><img src="assets/vbaExcelImage.PNG" alt="Excel VBA Logo" width="120" height="40"></a>
+<a href="#"><img src="assets/Python Logo.PNG" alt="Python Logo" width="120" height="40"></a>
 <a href="#"><img src="assets/jsImage.png" alt="JavaScript Logo" width="120" height="40"></a>
 <a href="#"><img src="assets/NodeJs.png" alt="Node JS Logo" width="120" height="40"></a>
 
