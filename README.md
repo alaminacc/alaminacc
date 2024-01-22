@@ -1,6 +1,6 @@
 ### Hey there, my awesome Friends! <img src="assets/hello.gif" width="28px" alt="hi">
-<img src="assets/art.PNG" alt="About My Self" width="1200" height="400">
-<img src="assets/Github Profile.png" alt="About My Self" width="1200" height="1000">
+<img src="assets/Profile_P1.jpg" alt="About My Self" width="1200" height="1000">
+<img src="assets/Profile_P2.jpg" alt="About My Self" width="1200" height="1000">
 
 What Sets Me Apart:
 
